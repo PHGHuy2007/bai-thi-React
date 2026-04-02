@@ -78,7 +78,6 @@
         .btn-signin:hover {
             background-color: #e0931d;
             transform: translateY(-2px);
-            box-shadow: 0 4px 8px rgba(244, 160, 48, 0.3);
         }
         .btn-signup {
             background-color: transparent;
@@ -140,5 +139,4 @@
             text-align: center;
             padding: 0 20px 20px;
             font-weight: 500;
-        }
-    
+        }           
